@@ -1,0 +1,100 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.container{
+    background-color: red;
+    height: flex;
+    border: 10px solid whitesmoke;
+}
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+}
+.top_section h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+.top_section h4{
+    font-size: 30px;
+    color: white;
+    text-align: end;
+}
+.image,img{
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+    height: 320px;
+}
+.abt{
+    margin-top: 50px;
+    color: azure;
+}
+.abt h2{
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom : 30px;]  
+}
+.abt p{
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+.early_life{
+    margin-top: 50px;
+    color: aliceblue;
+
+}
+.early_life h2{
+    font: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.early_life q{
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 2px;
+
+}
+.race{
+    margin-top: 50px;
+    color: azure;
+}
+.race h2{
+    font: 10px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.race a{
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+.img{
+    margin-top: 50px;
+}
+.Ferrari{
+    margin-top: 50px;
+}
+.Ferrari h2{
+    font: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.Ferrari b{
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 2px;
+
+}
+}
